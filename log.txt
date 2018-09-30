@@ -14,4 +14,86 @@ Venue Location: Santa Clara, CA
 
 Date of the Event: 9/29/2018
 
+------------------------------------------------
+
+Venue: Levi's Stadium
+
+Venue Location: Santa Clara, CA
+
+Date of the Event: 9/29/2018
+
+------------------------------------------------
+
+Venue: Royal Arena
+
+Venue Location: København S, 
+
+Date of the Event: 9/29/2018
+
+------------------------------------------------
+
+Artist: Beyoncé
+
+Song: Single Ladies (Put a Ring on It)
+
+Album: I AM...SASHA FIERCE
+
+Preview: https://p.scdn.co/mp3-preview/69c8bae97df9121ee440b23053fe20f64c204408?cid=9a671e82416f44e6bdcba0af00cee343
+
+------------------------------------------------
+
+Artist: Billie Eilish
+
+Song: idontwannabeyouanymore
+
+Album: dont smile at me
+
+Preview: null
+
+------------------------------------------------
+
+Movie: A River Runs Through It
+
+Release Year: 1992
+
+IMBD Rating: 7.3
+
+Rotten Tomatoes Rating: 81%
+
+Country of production: USA
+
+Language: English
+
+Plot: The story about two sons of a stern minister -- one reserved, one rebellious -- growing up in rural Montana while devoted to fly fishing.
+
+Actors: Craig Sheffer, Brad Pitt, Tom Skerritt, Brenda Blethyn
+
+------------------------------------------------
+
+Movie: Clueless
+
+Release Year: 1995
+
+IMBD Rating: 6.8
+
+Rotten Tomatoes Rating: 68/100
+
+Country of production: USA
+
+Language: English, Spanish
+
+Plot: A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.
+
+Actors: Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd
+
+------------------------------------------------
+
+Artist: Backstreet Boys
+
+Song: I Want It That Way
+
+Album: The Hits--Chapter One
+
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=9a671e82416f44e6bdcba0af00cee343
+
 ------------------------
