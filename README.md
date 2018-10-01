@@ -1,4 +1,5 @@
 # liri-node-app
 node.js assignment
-![alt tag]("./screenshots/swtichcase.png" "Switch case")
+![switchcase](https://github.com/Ctripp529/liri-node-app/blob/master/screenshots/switchcase.png)
 
+https://drive.google.com/file/d/1tBoykItJDaYzukRVwsTNBfngEeHSJvy4/view
